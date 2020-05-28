@@ -32,9 +32,9 @@ function App() {
         </Row>
         <Dashboard />
         <Footer>
-          <button><ion-icon name="logo-facebook"></ion-icon></button>
-          <button><ion-icon name="logo-twitter"></ion-icon></button>
-          <button><ion-icon name="logo-instagram"></ion-icon></button>
+          <button aria-label="facebook"><ion-icon name="logo-facebook"></ion-icon></button>
+          <button aria-label="twitter"><ion-icon name="logo-twitter"></ion-icon></button>
+          <button aria-label="instagram"><ion-icon name="logo-instagram"></ion-icon></button>
         </Footer>
         <p>&copy; Copyright Ping. All rights reserved.</p>
       </main>
