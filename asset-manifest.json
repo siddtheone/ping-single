@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ping-single/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/ping-single/static/js/main.2b4c51af.chunk.js",
-    "main.js.map": "/ping-single/static/js/main.2b4c51af.chunk.js.map",
+    "main.js": "/ping-single/static/js/main.326d5df6.chunk.js",
+    "main.js.map": "/ping-single/static/js/main.326d5df6.chunk.js.map",
     "runtime-main.js": "/ping-single/static/js/runtime-main.ef574f25.js",
     "runtime-main.js.map": "/ping-single/static/js/runtime-main.ef574f25.js.map",
     "static/js/2.7ed5ea8e.chunk.js": "/ping-single/static/js/2.7ed5ea8e.chunk.js",
     "static/js/2.7ed5ea8e.chunk.js.map": "/ping-single/static/js/2.7ed5ea8e.chunk.js.map",
     "index.html": "/ping-single/index.html",
-    "precache-manifest.4f022a5d05b4c56422769523dd6620df.js": "/ping-single/precache-manifest.4f022a5d05b4c56422769523dd6620df.js",
+    "precache-manifest.7297dd7792154e73f3166e3f37b84212.js": "/ping-single/precache-manifest.7297dd7792154e73f3166e3f37b84212.js",
     "service-worker.js": "/ping-single/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/ping-single/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.7ed5ea8e.chunk.js.LICENSE.txt": "/ping-single/static/js/2.7ed5ea8e.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.ef574f25.js",
     "static/js/2.7ed5ea8e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.2b4c51af.chunk.js"
+    "static/js/main.326d5df6.chunk.js"
   ]
 }
